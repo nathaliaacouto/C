@@ -1,2 +1,5 @@
 # C
-Repositório para meus projetos feitos na linguagem C, que estou começando a aprender agora
+Repositório para meus projetos feitos na linguagem C
+
+#
+<a href="https://www.linkedin.com/in/nathalia-vcouto/">Linkedin</i></a>
