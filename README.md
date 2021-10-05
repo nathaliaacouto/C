@@ -1,2 +1,2 @@
 # C
-Repositório para meus projetos na linguagem C, começando a aprender agora
+Repositório para meus projetos feitos na linguagem C, que estou começando a aprender agora
